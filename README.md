@@ -1,12 +1,11 @@
-### Hi there 👋
-
-![Turja-Cover](https://i.imgur.com/xWghZn3.png)
+## Hi there 👋
+I am Turja. I am a software Engineer, Problem Solver and Tech Enthusiast. I like reading blogs and listening podcast. I write tech blogs in my spare time.
 
 - 🔭 I’m currently working at Cefalo Bangladesh Ltd.
 - 📫 How to reach me: simantaturja@gmail.com
 
 
-<a href="https://gpvc.arturio.dev/simantaturja" align="center">![Profile views](https://gpvc.arturio.dev/ahmedsadman)</a>
+<a href="https://gpvc.arturio.dev/simantaturja" align="center">![Profile views](https://gpvc.arturio.dev/simantaturja)</a>
 
 ## ⚙️ My Tech Stack
 
