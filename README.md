@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-[![Header](https://imgur.com/a/bG6BbLH)](https://github.com/simantaturja)
+![Header](https://imgur.com/a/bG6BbLH)
 
 - 🔭 I’m currently working at Cefalo Bangladesh Ltd.
 - 📫 How to reach me: simantaturja@gmail.com
 
-<p align="center">
-  <a href="mailto:simantaturja@gmail.com" target="_blank">
-  <img alt="Reach Turja" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/simantaturja" target="_blank">
-    <img alt="Turja's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
 
 <a href="https://gpvc.arturio.dev/simantaturja" align="center">![Profile views](https://gpvc.arturio.dev/ahmedsadman)</a>
 
