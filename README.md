@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Turja. I am a software Engineer, Problem Solver and Tech Enthusiast. I like reading blogs and listening podcast. I write tech blogs in my spare time.
 
-- 🔭 I’m currently working at (Cefalo Bangladesh Ltd)[https://www.cefalo.com/en/]
+- 🔭 I’m currently working at [https://www.cefalo.com/en/](Cefalo Bangladesh Ltd)
 - 📫 How to reach me: simantaturja@gmail.com
 
 
