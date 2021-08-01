@@ -27,13 +27,11 @@ I am Turja. I am a software Engineer, Problem Solver and Tech Enthusiast. I like
 
 ## &#x1f4c8; Stats
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simantaturja&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=simantaturja&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
-<p align="center">
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=simantaturja&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
-<p>
+
 
 
 
