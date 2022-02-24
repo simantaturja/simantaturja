@@ -4,10 +4,10 @@ I am Turja. I am a software Engineer, Problem Solver and Tech Enthusiast. I like
 - 🔭 I’m currently working at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/)
 - 📫 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simantaturja/)](https://www.linkedin.com/in/simantaturja/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/simantaturja/)](https://instagram.com/simantaturja)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@simantaturja/)](https://medium.com/@simantaturja)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simantaturja@gmail.com)](mailto:simantaturja@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-simantaturja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simantaturja/)](https://www.linkedin.com/in/simantaturja/)
+[![Instagram Badge](https://img.shields.io/badge/-simantaturja-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/simantaturja/)](https://instagram.com/simantaturja)
+[![Medium Badge](https://img.shields.io/badge/-@simantaturja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@simantaturja/)](https://medium.com/@simantaturja)
+[![Gmail Badge](https://img.shields.io/badge/-simantaturja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simantaturja@gmail.com)](mailto:simantaturja@gmail.com)
 
 
 ## ⚙️ My Tech Stack
