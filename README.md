@@ -28,14 +28,14 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
 
 
-
+<!-- 
 ## &#x1f4c8; Stats
 <p align="center" >
 
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=simantaturja&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
-
+ -->
 
 
 
