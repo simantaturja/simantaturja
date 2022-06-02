@@ -1,7 +1,8 @@
-## Hi there 👋
-I am Turja. I am a software Engineer, Problem Solver and Tech Enthusiast. I like reading blogs and listening podcast. I write tech blogs in my spare time.
+## Hi there 👋 I'm Turja
+I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive/Sports Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcast. I write tech blogs in my spare time.
 
-- :office: &nbsp;I'm currently working at **[Cefalo]**
+- :office: &nbsp;I'm currently working at **Cefalo**
+- :seedling: &nbsp;I'm learning Typescript currently.
 - 📫 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-simantaturja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simantaturja/)](https://www.linkedin.com/in/simantaturja/)
