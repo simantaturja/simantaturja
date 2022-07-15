@@ -2,7 +2,8 @@
 I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive/Sports Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcast. I write tech blogs in my spare time.
 
 - :office: &nbsp;I'm currently working at **Cefalo**
-- :seedling: &nbsp;I'm learning Typescript currently.
+- :seedling: &nbsp;Actively using Java, Spring, Python and Django
+- :cloud: &nbsp; Interested in Cloud, Devops, Cyber Intelligence and Security
 - 📫 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-simantaturja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simantaturja/)](https://www.linkedin.com/in/simantaturja/)
