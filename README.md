@@ -8,9 +8,13 @@ I'm an enthusiastic Software Engineer and Problem Solver, like to take new chall
 - 🕷️ Can work on Frontend Libraries and Frameworks (React, Vue, Svelte)
 - 📖 Interested in Distributed Systems, Cloud, Blockchain, DeFi, Cyber Intelligence
 - 🤖 Mentoring Graduates and Software Engineers
+- 🧐 Research Gate profile : [Simanta Deb Turja](https://www.researchgate.net/profile/Simanta-Deb-Turja)
+
+### My Publications
+  - [Shapes2Toon, Published at AICCSA'22](https://ieeexplore.ieee.org/document/10017484/)
 
 
-📫 Find out more about me & feel free to connect with me here:
+### 📫 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-simantaturja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simantaturja/)](https://www.linkedin.com/in/simantaturja/)
 [![Instagram Badge](https://img.shields.io/badge/-simantaturja-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/simantaturja/)](https://instagram.com/simantaturja)
